@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 此心不动，随机而动。
+keywords: 产品, 危化品管理, 流程, 物联网
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+此心不动，随机而动。
 
-仰慕「优雅编码的艺术」。
+产品, 危化品管理, 流程, 物联网
 
-坚信熟能生巧，努力改变人生。
+厚德载物，自强不息！
 
 ## 联系
 
